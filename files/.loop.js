@@ -1,0 +1,1 @@
+'use strict'; let arr =[Natalie, Albert, Vanessa]; for(let name of arr) { console.log(name);}
