@@ -6,12 +6,11 @@
 ### Author: Vanessa
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
+* [repo](https://github.com/401-advanced-javascript-v/class-04/pull/1)
+
 
 #### Documentation
-* [swagger](http://xyz.com) (API assignments only)
-* [jsdoc](http://xyz.com) (All assignments)
+
 
 ### Modules
 #### `modulename.js`
